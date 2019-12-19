@@ -1,0 +1,25 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Please refer to this readme to understand the naming conventions used. \
+geo_test_output_enc_dec_512.tsv: This is the simple encoder-decoder model with 512 hidden units and teacher forcing ratio set at 0.5. \
+\
+geo_test_output_enc_dec_512_linear.tsv: encoder-decoder model with 512 hidden units and linear decay scheduled sampling. \
+\
+geo_test_output_enc_dec_512_invsig.tsv: encoder-decoder model with 512 hidden units and inverse sigmoid decay scheduled sampling. \
+\
+geo_test_output_enc_dec_512_expo.tsv: encoder-decoder model with 512 hidden units and exponential decay scheduled sampling. \
+\
+geo_test_output_enc_dec_atten.tsv: Attention based encoder-decoder model with 512 hidden units and teacher forcing ratio set at 0.5.\
+\
+geo_test_output_enc_dec_atten_invsig.tsv: Attention based encoder-decoder model with 512 hidden units and inverse sigmoid decay scheduled sampling. \
+\
+geo_test_output_enc_dec_atten_expo.tsv: Attention based encoder-decoder model with 512 hidden units and exponential decay scheduled sampling. \
+\
+geo_test_output_enc_dec_atten_linear.tsv: Attention based encoder-decoder model with 512 hidden units and linear decay scheduled sampling. \
+\
+I have also included the training epochs and their result. The denotation is calculated only on the dev set and dev accuracy is calculated every alternate epoch while training. }

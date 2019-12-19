@@ -273,17 +273,13 @@ def train_model_encdec(train_data: List[Example], test_data: List[Example], inpu
 
     # training params
 
-    epochs = 30 #20 
+    epochs = 20 #20 
 
     counter = 0
     print_every = 50
     
     num_correct = 0
     
-
-    
-    
-
     #net.train()
     for epoch_iter in range(epochs):
         print("epoch_iter", epoch_iter)
@@ -442,8 +438,8 @@ if __name__ == '__main__':
         evaluate(dev_data_indexed, decoder)
     else:
         decoder = train_model_encdec(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
-        evaluate(dev_data_indexed, decoder)
-    # print("=======FINAL EVALUATION ON BLIND TEST=======")
-    # evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output.tsv")
+        #evaluate(dev_data_indexed, decoder)
+    print("=======FINAL EVALUATION ON BLIND TEST=======")
+    evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output_enc_dec_512.tsv")
 
 

@@ -1,0 +1,57 @@
+main() {
+  Execution directory: /Users/ms75986/Desktop/Fall2019/NLP/Project2/hw2-distrib-2/state/execs/84.exec
+  DataManager.loadExamples {
+    Reading general {
+      Path: evaluator/domains/dbquery/geoquery/1/geoquery.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/geoquery.dlog
+        89 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/predicates.dlog
+        49 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/geobase.dlog [1.0s, cum. 1.7s]
+        698 statements
+      } [2.9s, cum. 2.9s]
+      Path: evaluator/domains/dbquery/geoquery/1/lexicon.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon.dlog
+        5 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/lexicon.dlog
+        31 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon0.dlog
+        5 statements
+      }
+      Path: /var/folders/jv/b55j3hps3_ldqm399ly0t81w0000gp/T/tmp43etedva.dlog {
+        Parsing /var/folders/jv/b55j3hps3_ldqm399ly0t81w0000gp/T/tmp43etedva.dlog {
+          ERROR: java.lang.OutOfMemoryError: GC overhead limit exceeded:
+java.lang.AbstractStringBuilder.<init>(AbstractStringBuilder.java:68)
+java.lang.StringBuilder.<init>(StringBuilder.java:101)
+scala.collection.mutable.StringBuilder.<init>(StringBuilder.scala:43)
+scala.collection.mutable.StringBuilder.<init>(StringBuilder.scala:48)
+scala.util.parsing.combinator.Parsers$$anonfun$elem$1.apply(Parsers.scala:448)
+scala.util.parsing.combinator.Parsers$$anonfun$elem$1.apply(Parsers.scala:448)
+scala.util.parsing.combinator.Parsers$$anonfun$acceptIf$1.apply(Parsers.scala:499)
+scala.util.parsing.combinator.Parsers$$anonfun$acceptIf$1.apply(Parsers.scala:497)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$append$1.apply(Parsers.scala:210)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$flatMap$1.apply(Parsers.scala:201)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$flatMap$1.apply(Parsers.scala:201)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$flatMap$1.apply(Parsers.scala:201)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$flatMap$1.apply(Parsers.scala:201)
+scala.util.parsing.combinator.Parsers$$anon$3.apply(Parsers.scala:183)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+scala.util.parsing.combinator.Parsers$Parser$$anonfun$map$1.apply(Parsers.scala:204)
+          Execution directory: /Users/ms75986/Desktop/Fall2019/NLP/Project2/hw2-distrib-2/state/execs/84.exec
+        } [6m20s, cum. 6m20s]

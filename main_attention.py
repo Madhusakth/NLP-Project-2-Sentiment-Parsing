@@ -250,7 +250,7 @@ def train_model_encdec(train_data: List[Example], test_data: List[Example], inpu
     # Instantiate the model w/ hyperparams
     input_size = 238
     output_size = 153 #np.max(np.asarray([len(ex.y_indexed) for ex in train_data])))
-    hidden_dim = 750
+    hidden_dim = 512
 
 
     encoder_net = RNNEncoder(input_size, hidden_dim)
@@ -432,8 +432,8 @@ if __name__ == '__main__':
         evaluate(dev_data_indexed, decoder)
     else:
         decoder = train_model_encdec(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
-        evaluate(dev_data_indexed, decoder)
-    # print("=======FINAL EVALUATION ON BLIND TEST=======")
-    # evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output.tsv")
+        #evaluate(dev_data_indexed, decoder)
+    print("=======FINAL EVALUATION ON BLIND TEST=======")
+    evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output_enc_dec_attention_noDecay.tsv")
 
 

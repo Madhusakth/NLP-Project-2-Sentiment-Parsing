@@ -1,0 +1,1153 @@
+main() {
+  Execution directory: /Users/ms75986/Desktop/Fall2019/NLP/Project2/hw2-distrib-2/state/execs/309.exec
+  DataManager.loadExamples {
+    Reading general {
+      Path: evaluator/domains/dbquery/geoquery/1/geoquery.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/geoquery.dlog
+        89 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/predicates.dlog
+        49 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/geobase.dlog
+        698 statements
+      } [2.1s, cum. 2.1s]
+      Path: evaluator/domains/dbquery/geoquery/1/lexicon.dlog {
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon.dlog
+        5 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/../../general/lexicon.dlog
+        31 statements
+        Parsing evaluator/domains/dbquery/geoquery/1/lexicon0.dlog
+        5 statements
+      }
+      Path: /var/folders/jv/b55j3hps3_ldqm399ly0t81w0000gp/T/tmpxfqs81bd.dlog {
+        Parsing /var/folders/jv/b55j3hps3_ldqm399ly0t81w0000gp/T/tmpxfqs81bd.dlog {
+          DatalogParser.loadSafe(): start
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,largest(A,state(A)))).
+          _parse([query], answer(A,(loc(A,)))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,(loc(B,C),const(C,stateid(alaska))))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,(loc(B,C),const(C,stateid(alaska))))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,(loc(B,C),const(C,stateid(alaska))))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska)))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,(loc(B,C),const(C,stateid(alaska))))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska)))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))).
+          _parse([query], answer(A,(state(A),)))).
+          _parse([query], answer(A,(loc(B,A),const(B,cityid())))).
+          _parse([query], answer(A,(loc(B,A),const(B,stateid())))).
+          _parse([query], answer(A,(state(A),)))).
+          DatalogParser.loadSafe(): end
+        } [1.2s, cum. 1.2s]
+        560 statements
+        Example tmpxfqs81bd.dlog:0: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:1: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:2: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:3: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:4: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:5: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:6: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:7: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:8: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:9: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:10: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:11: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:12: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:13: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:14: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:15: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:16: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:17: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:18: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:19: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:20: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:21: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:22: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:23: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:24: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:25: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:26: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:27: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:28: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:29: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:30: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:31: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:32: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:33: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:34: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:35: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:36: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:37: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:38: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:39: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:40: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:41: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:42: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:43: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:44: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:45: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:46: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:47: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:48: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:49: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:50: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:51: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:52: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:53: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:54: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:55: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:56: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:57: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:58: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:59: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:60: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:61: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:62: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:63: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:64: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:65: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:66: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:67: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:68: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:69: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:70: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:71: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:72: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:73: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:74: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:75: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:76: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:77: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:78: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:79: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:80: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:81: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:82: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:83: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:84: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:85: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:86: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:87: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:88: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:89: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:90: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:91: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:92: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:93: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:94: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:95: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:96: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:97: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:98: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:99: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:100: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:101: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:102: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:103: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:104: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:105: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:106: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:107: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:108: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:109: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:110: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:111: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:112: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:113: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:114: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:115: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:116: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:117: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:118: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:119: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:120: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:121: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:122: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:123: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:124: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:125: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:126: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:127: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:128: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:129: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:130: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:131: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:132: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:133: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:134: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:135: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:136: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:137: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:138: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:139: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:140: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:141: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:142: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:143: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:144: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:145: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:146: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:147: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:148: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:149: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:150: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:151: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:152: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:153: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:154: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:155: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:156: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:157: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:158: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:159: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:160: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:161: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:162: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:163: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:164: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:165: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:166: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:167: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:168: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:169: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:170: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:171: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:172: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:173: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:174: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:175: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:176: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:177: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:178: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:179: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:180: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:181: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:182: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:183: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:184: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:185: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:186: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:187: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:188: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:189: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:190: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:191: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:192: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:193: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:194: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:195: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:196: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:197: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:198: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:199: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:200: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:201: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:202: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:203: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:204: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:205: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:206: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:207: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:208: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:209: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:210: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:211: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:212: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:213: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:214: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:215: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:216: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:217: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:218: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:219: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:220: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:221: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:222: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:223: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:224: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:225: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:226: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:227: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:228: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:229: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:230: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:231: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:232: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:233: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:234: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:235: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:236: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:237: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:238: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:239: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:240: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:241: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:242: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:243: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:244: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:245: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:246: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:247: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:248: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:249: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:250: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:251: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:252: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:253: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:254: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:255: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:256: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:257: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:258: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:259: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:260: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:261: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:262: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:263: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:264: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:265: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:266: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:267: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:268: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:269: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:270: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:271: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:272: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:273: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:274: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:275: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:276: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:277: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:278: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example tmpxfqs81bd.dlog:279: query => {[alaska:stateid/2]} | answer(A,largest(A,state(A)))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:280: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:281: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:283: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:284: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:285: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:287: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:289: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:290: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:292: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:293: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:295: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:296: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:297: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:298: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:299: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:300: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:301: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:302: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:303: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:304: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:305: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:306: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:308: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:309: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:310: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:311: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:312: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:313: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:314: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:315: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:316: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:317: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:318: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:319: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:320: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:321: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:322: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:323: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:324: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:325: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:326: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:327: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:328: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:329: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:330: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:331: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:332: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:333: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:334: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:335: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:336: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:337: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:338: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:340: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:341: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:342: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:343: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:344: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:345: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:346: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:347: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:348: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:349: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:350: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:351: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:352: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:354: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:355: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:356: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:357: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:358: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:359: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:360: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:361: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:362: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:363: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:364: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:365: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:367: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:368: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:369: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:371: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:372: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:373: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:374: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:375: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:376: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:377: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:380: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:381: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:383: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:384: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:385: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:386: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:388: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:389: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:390: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:391: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:394: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:395: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:396: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:399: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:400: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:401: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:402: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:403: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:404: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:405: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:406: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:408: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:409: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:410: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:412: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:413: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:414: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:415: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:416: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:417: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:418: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:420: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:422: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:423: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:425: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:426: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:428: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:429: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:430: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:431: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:433: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:434: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:435: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:436: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:437: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:438: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:439: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:440: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:442: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:444: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:445: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:446: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:447: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:448: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:449: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:450: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:451: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:452: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:453: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:454: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:455: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:456: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:458: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example FAILED TO PARSE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:464: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:465: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:466: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:468: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:469: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:470: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:471: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:472: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:473: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:474: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:475: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:476: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:477: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:478: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:479: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:480: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:481: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:482: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:483: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:484: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:486: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:487: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:488: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:489: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:490: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:491: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:493: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:494: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:496: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:497: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:500: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:503: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:504: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:505: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:506: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:507: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:508: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:509: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:510: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:511: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:513: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:514: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:516: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:517: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:519: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:520: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:521: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:522: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:523: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:524: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:525: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:526: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:527: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:528: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:529: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example tmpxfqs81bd.dlog:530: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:531: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:532: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:533: query => {[usa:countryid/2]} | answer(A,(loc(B,A),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:534: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:535: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:536: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:537: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:538: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:539: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:540: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO EXECUTE
+        Example tmpxfqs81bd.dlog:542: query => {[naknek:lakeid/2],[browne tower:mountainid/2],[st. elias:mountainid/2],[wrangell:mountainid/2],[blackburn:mountainid/2],[kennedy:mountainid/2],[alverstone:mountainid/2],[teshekpuk:lakeid/2],[mount mckinley:placeid/2],[fairweather:mountainid/2],[sitka_ak:cityid/3],[anchorage_ak:cityid/3],[south buttress:mountainid/2],[bona:mountainid/2],[juneau_ak:cityid/3],[east buttress:mountainid/2],[foraker:mountainid/2],[becharof:lakeid/2],[hubbard:mountainid/2],[mckinley:mountainid/2],[iliamna:lakeid/2],[sanford:mountainid/2],[churchill:mountainid/2],[hunter:mountainid/2],[pacific ocean:placeid/2],[vancouver:mountainid/2],[bear:mountainid/2],[fairbanks_ak:cityid/3]} | answer(A,(loc(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:543: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example tmpxfqs81bd.dlog:544: query => {} | answer(A,(state(A),next_to(A,B),const(B,stateid(alaska))))
+        Example FAILED TO PARSE
+        Example FAILED TO EXECUTE
+        Example FAILED TO EXECUTE
+        Example FAILED TO PARSE
+      } [1.5s, cum. 3.8s]
+    } [3.8s, cum. 3.8s]
+    Randomly splitting 500 general examples
+    350 training examples, 150 test examples
+  } [3.8s, cum. 3.9s]
+  Execution directory: /Users/ms75986/Desktop/Fall2019/NLP/Project2/hw2-distrib-2/state/execs/309.exec
+} [3.9s]

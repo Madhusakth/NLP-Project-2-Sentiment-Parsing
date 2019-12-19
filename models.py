@@ -125,6 +125,11 @@ class RNNEncoder(nn.Module):
         self.embedding = nn.Embedding(input_size, hidden_size)
         #self.lstm = nn.LSTM(hidden_size, hidden_size, num_layers=1, batch_first=True,dropout=0.)
         self.gru = nn.GRU(hidden_size, hidden_size)
+        for name, param in self.gru.named_parameters():
+            if 'bias' in name:
+                nn.init.constant_(param, 0.0)
+            elif 'weight' in name:
+                nn.init.xavier_normal_(param, gain = 1)
 
 
     def forward(self, input, hidden):
@@ -151,6 +156,11 @@ class RNNDecoder(nn.Module):
         self.out = nn.Linear(hidden_size, output_size)
         self.softmax = nn.LogSoftmax(dim=1)
         self.initHidden()
+        for name, param in self.gru.named_parameters():
+            if 'bias' in name:
+                nn.init.constant_(param, 0.0)
+            elif 'weight' in name:
+                nn.init.xavier_normal_(param, gain = 1)
 
     def initHidden(self):
         # nn.init.xavier_uniform_(self.rnn.weight_hh_l0, gain=1)
@@ -181,6 +191,11 @@ class RNNDecoderAttn(nn.Module):
         self.attn_combine = nn.Linear(self.hidden_size * 2, self.hidden_size)
         #self.dropout = nn.Dropout(self.dropout_p)
         self.gru = nn.GRU(self.hidden_size, self.hidden_size)
+        for name, param in self.gru.named_parameters():
+            if 'bias' in name:
+                nn.init.constant_(param, 0.0)
+            elif 'weight' in name:
+                nn.init.xavier_normal_(param, gain = 1)
         self.out = nn.Linear(self.hidden_size, self.output_size)
 
     def forward(self, input, hidden, encoder_outputs):

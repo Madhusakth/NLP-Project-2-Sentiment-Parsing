@@ -279,6 +279,9 @@ def train_model_encdec(train_data: List[Example], test_data: List[Example], inpu
     print_every = 50
     
     num_correct = 0
+    k_iter = 1
+    c = 4e-5 
+
     
 
     
@@ -286,7 +289,7 @@ def train_model_encdec(train_data: List[Example], test_data: List[Example], inpu
 
     #net.train()
     for epoch_iter in range(epochs):
-        k_iter = 1
+        
         print("epoch_iter", epoch_iter)
         decoded_sentences_train = []
         train_derive = []
@@ -302,8 +305,10 @@ def train_model_encdec(train_data: List[Example], test_data: List[Example], inpu
             
 
             encoder_outputs = torch.zeros(input_max_len, hidden_dim)
-            k = 0.99
-            teacher_forcing_ratio = k / (k+np.exp(k_iter/k)) #inverse-sigmoid decay
+            k = 0.999
+            #teacher_forcing_ratio = k / (k+np.exp(k_iter/k)) #inverse-sigmoid decay
+            #teacher_forcing_ratio = k**k_iter #exponential
+            teacher_forcing_ratio = max(1.0, k - c*k_iter) #linear decay
             loss = 0
 
             for ei in range(input_max_len):
@@ -444,8 +449,8 @@ if __name__ == '__main__':
         evaluate(dev_data_indexed, decoder)
     else:
         decoder = train_model_encdec(train_data_indexed, dev_data_indexed, input_indexer, output_indexer, args)
-        evaluate(dev_data_indexed, decoder)
-    # print("=======FINAL EVALUATION ON BLIND TEST=======")
-    # evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output.tsv")
+        #evaluate(dev_data_indexed, decoder)
+    print("=======FINAL EVALUATION ON BLIND TEST=======")
+    evaluate(test_data_indexed, decoder, print_output=False, outfile="geo_test_output_enc_dec_512_linear.tsv")
 
 

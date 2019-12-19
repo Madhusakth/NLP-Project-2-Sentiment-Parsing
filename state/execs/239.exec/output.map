@@ -1,0 +1,9 @@
+log.note	
+exec.memory	1009M
+exec.time	4.3s
+exec.errors	0
+exec.warnings	0
+numTrainExamples	154
+numTestExamples	66
+exec.disk	6.4M
+exec.status	done

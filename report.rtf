@@ -1,0 +1,32 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab560
+\pard\pardeftab560\slleading20\partightenfactor0
+
+\f0\fs24 \cf0 NLP Project 2\
+Abstract: \
+In this project, I have implemented Encoder-Decoder Models to perform semantic parsing. In this task, a given natural language sentence is converted to the formal representation such as as Lambda calculus. Since the sentence would be fully disambiguated, they could be treated as a source code and processed with a knowledge base. For this task, I used the given GeoQuery dataset. First, I created an Encoder-Decoder model with GRU layers. For the second part, I used attention mechanism in the Encoder-Decoder model with GRU layers. Finally, for the extension part .. I collaborated with Neeharika Immaneni and Sundar for this project. \
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf0 \
+\
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf0 Introduction\
+In this project, I used an encoder-decoder model for a semantic parsing task. Given a natural language sentence, this system would convert the input to lambda calculus representation such that, this could be treated as a source code. I used the Geoquery dataset[ref] that consist of sentences such as \'93What is the population of Atlanta ga?\'94, \'93what state border Texas?\'94. For each of these cases, answer would be computed by executing the expression against the knowledge base. The data consist of 480 training examples and 120 dev examples. Using the train data, an input and output indexer is created of size 238 and 153 respectively. The maximum length of the sentence in the input data is 19 and the maximum length of output sentence is 65. \
+The evaluation of these models are done either using the token level accuracy or the logical form comparison or the denotation based accuracy where, the answer which the logical form would produce when when executed against the knowledge base.\
+This project is divided into three parts. In the first part, a simple encoder-decoder based model using GRU layers is used for the semantic parsing task. In the second part, the attention mechanism is incorporated into the encoder-decoder model which leads to improved performance. Finally, for the extension part.. \
+\
+Part 1: Encoder-Decoder Model\
+The encoder part of the network is made of an embedding layer and various sized of hidden GRU layers. The embedding layer has a dimension of 238. The output of the embedding layer is fed to the GRU layer and then finally to its output is passed to the decoder. The model is trained for using a single sample, i.e., batch size 1 using the Negative Log Likelihood criterion. The encoder is fed with one token at a time and the output is stored in an encoder_outputs tensor. The decoder is also fed with one token at a time for a maximum token length of 65. For the first token, the decoder is fed with the SOS token as the decoder input and for the following tokens, it is fed with the true label as the decoder input. The reason being, I used the teacher forcing algorithm where, during training, the decoder will be fed with the actual label for improved learning. Finally, if the decoder produces an EOS_token or POS token, the decoder will stop taking inputs for that particular sentence. This way, the moment EOS or POS is reached for a padded sentence, the decoder is not trained further. \
+During evaluation, the encoder_net, decoder_net along with the hidden units as parameters is passed for the evaluation module. The encoder takes the indexed sentence as one token at a time as input and the final encoder hidden state is fed as the input to the decoder module. The decoder is fed with individual tokens and the hidden state. The first decoder input is the SOS token and for the rest of the tokens in the sentence, the decoder is fed with the previous token\'92s topi prediction. As soon as an EOS or POS token is predicted, the decoding stops and the next input sentence is passed to the encoder. \
+\
+Part 2: Encoder-Decoder with Attention\
+The encoder and decoder setup is created similar to part 1. In this part, the attention is included in the decoder model. In part 1, when the context vector is passed between the encoder and the decoder, it has to carry all the information about the entire sentence, which may not be effective. Therefore, using the attention mechanism, it will help the decoder to \'93focus\'94 on different parts of the encoder\'92s output for every step of the decoder\'92s output. The attention weights are calculated using a feed-forward layer. The attention applied input is then passed to the GRU layer, followed by a log_softmax to predict the output token class. Similar to the implementation given, I used the Bahdanau attention mechanism. \
+\
+Part 3: Extension\
+\pard\pardeftab560\slleading20\pardirnatural\partightenfactor0
+\cf0 \
+\pard\pardeftab560\slleading20\partightenfactor0
+\cf0 Part 4: Conclusion }
